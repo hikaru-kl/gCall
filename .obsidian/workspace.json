@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "fd8e7d46273511b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "01f653f4f7481768",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1bb50e70a7d79069",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Глоссарий/TURN Server.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TURN Server"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b46cbc6f4f811a51",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3c79f8b49dca52a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e8b2169b23c9e26",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5c30279117fd4834",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4ca21b34159f9b12",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2ec0865495cb96e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "368fdbc1319de781",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7bd429ed7aba697c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Глоссарий/TURN Server.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for TURN Server"
+            }
+          },
+          {
+            "id": "9cf45962bc1fbaae",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Глоссарий/TURN Server.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from TURN Server"
+            }
+          },
+          {
+            "id": "4e5061c4e479dd77",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "33258844b9f8e5df",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "4c8e5c93391ea38c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Глоссарий/TURN Server.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of TURN Server"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "1bb50e70a7d79069",
+  "lastOpenFiles": [
+    "Глоссарий/ICE candidates.md",
+    "Глоссарий/TURN Server.md",
+    "Глоссарий/WebRTC.md",
+    "ICE.md",
+    "Глоссарий/simulcast - SVC.md",
+    "Untitled.md",
+    "Глоссарий/SDP (Session Description Protocol).md",
+    "Глоссарий/NAT traversal.md",
+    "Архитектура gCall/Общее описание.md",
+    "Глоссарий",
+    "Глоссарий.md",
+    "WebRTC основы.md",
+    "Архитектура gCall/Client-Presentation Layer.md",
+    "Архитектура gCall/Signaling & Control Plane.md",
+    "Архитектура gCall"
+  ]
+}
